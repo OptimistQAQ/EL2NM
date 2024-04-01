@@ -1,2 +1,2 @@
-# EL2NM
+#  EL2NM: Extremely Low-light Noise Modeling Through Diffusion Iteration 
 Official implementation of EL2NM: Extremely Low-light Noise Modeling Through Diffusion Iteration in pytorch.
